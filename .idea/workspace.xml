@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66534fd8-ba3f-4917-8fe0-ed69807658ed" name="Changes" comment="Init">
-      <change afterPath="$PROJECT_DIR$/project/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/classes/OCR.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/classes/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/routes/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/routes/routes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/OcrAPP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/call_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/OCR.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/OCR.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/OCRTest.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +45,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/subin/PycharmProjects/LegalOcrFinal",
+    "last_opened_file_path": "C:/Users/subin/PycharmProjects/OCR",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -65,6 +55,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\subin\PycharmProjects\OCR" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\subin\PycharmProjects\OCR\test" />
     </key>
@@ -85,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1741522078975</updated>
-      <workItem from="1741522080057" duration="7511000" />
+      <workItem from="1741522080057" duration="8199000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <option name="closed" value="true" />
@@ -95,7 +88,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741523119068</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Init">
+      <option name="closed" value="true" />
+      <created>1741530094431</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1741530094431</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
