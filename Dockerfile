@@ -5,19 +5,11 @@ FROM ubuntu:20.04
 WORKDIR /app
 
 # Install system dependencies
-RUN apt-get update && \
-    apt-get install -y \
-    python3 \
-    python3-pip \
-    tesseract-ocr \
-    libcurl4-openssl-dev \
-    libssl-dev \
-    build-essential \
-    libopencv-dev \
-    libgl1-mesa-glx \
-    libglib2.0-0 \
-    libx11-dev \
-    && rm -rf /var/lib/apt/lists/*
+RUN apt-get update && apt-get install -y \
+    python3 python3-pip && \
+    rm -rf /var/lib/apt/lists/*
+
+RUN apt-get install libgl1-mesa-glx
 # Copy project files into container
 COPY . /app
 
