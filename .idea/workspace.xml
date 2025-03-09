@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66534fd8-ba3f-4917-8fe0-ed69807658ed" name="Changes" comment="Updated dependencies and workspace settings.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1741522078975</updated>
       <workItem from="1741522080057" duration="8624000" />
-      <workItem from="1741532297289" duration="867000" />
+      <workItem from="1741532297289" duration="904000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <option name="closed" value="true" />
@@ -145,7 +144,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741533118570</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Updated dependencies and workspace settings.">
+      <option name="closed" value="true" />
+      <created>1741533175036</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1741533175036</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
