@@ -3,3 +3,4 @@ paddleocr
 fastapi
 uvicorn
 opencv-python
+python-multipart
