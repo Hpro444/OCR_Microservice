@@ -9,7 +9,8 @@ RUN apt-get update && apt-get install -y \
     python3 python3-pip && \
     rm -rf /var/lib/apt/lists/*
 
-RUN apt-get install libgl1-mesa-glx
+RUN apt-get install -y libgl1-mesa-glx libegl1-mesa && rm -rf /var/lib/apt/lists/*
+
 # Copy project files into container
 COPY . /app
 
