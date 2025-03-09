@@ -1,1 +1,4 @@
-paddlepaddle-gpu
+paddlepaddle
+paddleocr
+fastapi
+uvicorn
