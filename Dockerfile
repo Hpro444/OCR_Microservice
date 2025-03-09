@@ -19,4 +19,4 @@ RUN pip3 install --no-cache-dir -r requirements.txt
 ENV PYTHONPATH=/app
 
 # Run the script using the module path
-CMD ["python3", "-m", "project.stt.app"]
+CMD ["python3", "-m", "project.app"]
