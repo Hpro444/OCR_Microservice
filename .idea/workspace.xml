@@ -78,7 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1741522078975</updated>
       <workItem from="1741522080057" duration="8624000" />
-      <workItem from="1741532297289" duration="904000" />
+      <workItem from="1741532297289" duration="1061000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <option name="closed" value="true" />
@@ -152,7 +152,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741533175036</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Updated dependencies and workspace settings.">
+      <option name="closed" value="true" />
+      <created>1741533214077</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1741533214077</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
