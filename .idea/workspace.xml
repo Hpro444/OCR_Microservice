@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66534fd8-ba3f-4917-8fe0-ed69807658ed" name="Changes" comment="Added Dockerfile">
+    <list default="true" id="66534fd8-ba3f-4917-8fe0-ed69807658ed" name="Changes" comment="Updated dependencies and workspace settings.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1741522078975</updated>
       <workItem from="1741522080057" duration="8624000" />
-      <workItem from="1741532297289" duration="8000" />
+      <workItem from="1741532297289" duration="438000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <option name="closed" value="true" />
@@ -113,7 +113,23 @@
       <option name="project" value="LOCAL" />
       <updated>1741531102790</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Updated dependencies and workspace settings.">
+      <option name="closed" value="true" />
+      <created>1741532335223</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1741532335223</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Updated dependencies and workspace settings.">
+      <option name="closed" value="true" />
+      <created>1741532627516</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1741532627516</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,7 +138,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init" />
     <MESSAGE value="Added Dockerfile" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Dockerfile" />
+    <MESSAGE value="Updated dependencies and workspace settings." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated dependencies and workspace settings." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/OCR$call_test.coverage" NAME="call_test Coverage Results" MODIFIED="1741528151960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />

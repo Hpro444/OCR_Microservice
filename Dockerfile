@@ -14,9 +14,9 @@ RUN apt-get update && \
     libssl-dev \
     build-essential \
     libopencv-dev \
-    libgl1-mesa-glx \          # Install OpenGL library (libGL.so.1)
-    libglib2.0-0 \             # Install glib (required by OpenCV)
-    libx11-dev \               # Install X11 (required for GUI-based apps)
+    libgl1-mesa-glx \
+    libglib2.0-0 \
+    libx11-dev \
     && rm -rf /var/lib/apt/lists/*
 # Copy project files into container
 COPY . /app
