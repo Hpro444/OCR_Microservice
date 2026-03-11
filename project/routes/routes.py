@@ -1,5 +1,5 @@
 from fastapi import APIRouter, File, UploadFile
-from project.classes.OCR import OCR
+from project.classes.ocr import OCR
 from PIL import Image
 import io
 

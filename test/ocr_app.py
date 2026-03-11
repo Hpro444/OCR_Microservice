@@ -61,4 +61,3 @@ def send_to_ocr():
         copy_text_to_clipboard(response)
     else:
         print("No image found in clipboard.")
-
